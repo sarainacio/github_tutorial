@@ -1,2 +1,2 @@
 # github_tutorial
-this is my first commit! (sus)
+this is my first commit! (juro)
