@@ -1,3 +1,2 @@
-# github_tutorial kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
-ldjalifpiaSHNLIDAHFPICAJSDXIPZCJEQ9J VROEFJ DPFJVP
-o caralho
+# github_tutorial
+this is my first commit!
